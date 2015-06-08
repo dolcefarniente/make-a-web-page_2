@@ -1,0 +1,60 @@
+/* by Doreen Xia */
+
+body {
+  padding: 15px 5px;
+  font-family: Times New Roman;
+  max-width: 3000px;
+  margin: 0 auto;
+  font-size: 1.5em;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+p {
+  margin: 8px 0;
+}
+
+ul {
+  list-style-type: lower-alpha
+}
+
+li {
+  font-size: 24px;
+  line-height: 44px;
+}
+
+.lesson {
+  background-color: red;
+  border-radius: 25px;
+  color: blue;
+  padding: 15px;
+  margin: 10px auto;
+}
+
+h2 {
+  margin: 5px;
+}
+
+.concept {
+  background-color: white;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 25px;
+  color: blue;
+}
+
+.concept-title {
+  font-size: 28px;
+  margin: 10px;
+  text-align: center;
+  color: blue;
+}
+
+.concept-description {
+  font-weight: 200;
+  margin: 6px;
+  text-align: justify;
+}
